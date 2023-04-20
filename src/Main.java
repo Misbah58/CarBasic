@@ -10,10 +10,16 @@ public class Main {
         x.size="1234cc";
         x.weight="6453k ";
 
+
         color col=new color();
         col.colorType="True";
         col.colorLights="False";
         col.colorwindow="True";
 
+
+        Lights neon=new Lights();
+        neon.color="red";
+        neon.size="15cm";
+        neon.intensity="7675lumin";
     }
 }
